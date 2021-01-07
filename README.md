@@ -1,6 +1,6 @@
 # IPL_DataAnalysis
 
-**Team Data Analysis using a Dataset**
+## Team Data Analysis using a Dataset
 
 * Total wins by teams in all seasons
 
@@ -24,6 +24,7 @@
 ![](images/MIwins.png)
 
 
+## Player Data Analysis
 
 * Piechart showing runs by 4,6 etc by player 
 
