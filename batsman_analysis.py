@@ -32,4 +32,4 @@ def count(df,runs):
 slices =[1379, 354, 15, 1416, 5, 1038] #these are no. of 1,2,3,4,5,6 hit by rohit 
 labels = [1,2,3,4,5,6] #passing label
 explode=[0,0,0,0.1,0,0] #exploding no. of 4's area
-plt.pie(slices,labels=labels,autopct= '%1.1f&&', explode=explode) #plotting pie chart shown in readme.
+plt.pie(slices,labels=labels,autopct= '%1.1f%%', explode=explode) #plotting pie chart shown in readme.
