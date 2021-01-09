@@ -28,7 +28,7 @@
 
 * Piechart showing runs by 4,6 etc by player 
 
-![](images/explode.png)
+![](images/explode2.png)
 
 
 
